@@ -21,7 +21,7 @@ This repository contains a detailed report on two major cybersecurity incidents:
 - Tools Mentioned: Cortex XDR, Prisma Cloud, SWIFT System.
 
 ## Why This Report? 🤔
-This report is a culmination of my Vocational Training. It aims to showcase the real-world importance of robust cybersecurity practices in protecting critical infrastructure and financial institutions. By dissecting these high-profile attacks, the report highlights the evolving nature of cyber threats and the need for continuous learning in this field.
+This report is a culmination of my Internship. It aims to showcase the real-world importance of robust cybersecurity practices in protecting critical infrastructure and financial institutions. By dissecting these high-profile attacks, the report highlights the evolving nature of cyber threats and the need for continuous learning in this field.
 
 ## Show Your Support ❤️
 If you find this report insightful, feel free to star the repository ⭐ and share it with others interested in cybersecurity and real-world case studies!
